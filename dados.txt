@@ -1,11 +1,16 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Vinicius
+-Profissão: QA
+-Cidade: São Paulo
+-O que faz nas horas vaga: Estudo ou saio com a família
+-Feedback sobre o curso Qualidade de Software: O curso esta sendo bem profeitoso estou me aprofundando sobre os conceitos, 
+                                               tecnologias e ferramentas dentro do universo qualidade de software
+-Feedback sobre a plataforma de estudo da EBAC: Acredito que deveria existir uma feature para "recolher" os modulos que já vimos 
+                                                e caso haja algum conteúdo que gostariamos de acessar novamente apenas clicariamos 
+                                                em um botao e o modulo iria expandir. Outro ponto é a questao do estado dos videos após
+                                                visualização. Sempre que eu vejo duas aulas seguidas a segunda não fica "verde". Dai eu
+                                                fecho e abro novamente a pagina e dou um play em 4x só para ganhar o estado de "visto"
 
 Obrigado!!!
 
